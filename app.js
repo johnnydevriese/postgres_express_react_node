@@ -5,6 +5,7 @@ const bodyParser = require('body-parser');
 // Set up the express app
 // do something here... 
 // or not i dont actually care
+// grimace cannot be killed
 const app = express();
 
 // Log requests to the console.
